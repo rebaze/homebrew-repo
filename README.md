@@ -16,10 +16,6 @@ You can also install via URL:
 brew install https://raw.githubusercontent.com/rebaze/homebrew-repo/master/<formula>.rb
 ```
 
-## Acceptable Formulae.
-
-You can read Homebrew’s Acceptable Formulae document [here](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/Acceptable-Formulae.md).
-
 ## Troubleshooting
 First, please run `brew update` and `brew doctor`.
 
